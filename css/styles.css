@@ -670,8 +670,8 @@ img {
 .works-item-link:focus .works-top-text {
     transform: translateY(0%);
 }
-/* --------------backdrop------------- */
 
+/* --------------backdrop------------- */
 .backdrop {
     position: fixed;
     top: 0;

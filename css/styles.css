@@ -531,6 +531,7 @@ img {
     background-color: var(--logo-color);
     fill: var(--hero-title-color);
 }
+
 .portfolio-list {
     display: flex;
     justify-content: center;

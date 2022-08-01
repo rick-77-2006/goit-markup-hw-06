@@ -202,7 +202,7 @@ img {
     padding-right: 235px;
     padding-left: 235px;
 }
-.hero-btn {
+.hero-button {
     display: inline-block;
     font-family: inherit;
     font-weight: 700;
@@ -219,8 +219,8 @@ img {
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.hero-btn:hover,
-.hero-btn:focus {
+.hero-button:hover,
+.hero-button:focus {
     background-color: var(--button-background-hover);
 }
 
@@ -538,7 +538,7 @@ img {
     margin-bottom: 50px;
 }
 
-.portfolio-btn {
+.portfolio-button {
     display: inline-block;
     font-family: inherit;
     font-weight: 500;
@@ -555,11 +555,11 @@ img {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.btn-list {
+.button-list {
     margin-right: 8px;
 }
 
-.btn-list:last-child {
+.button-list:last-child {
     margin-right: 0;
 }
 
@@ -578,8 +578,8 @@ img {
     margin-right: 8px;
 }
 
-.portfolio-btn:hover,
-.portfolio-btn:focus {
+.portfolio-button:hover,
+.portfolio-button:focus {
     color: var(--hero-title-color);
     background-color: var(--logo-color);
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),

@@ -610,6 +610,7 @@ img {
     line-height: 1.88;
     color: var(--secondary-color);
 }
+
 .works-list {
     display: flex;
     flex-wrap: wrap;

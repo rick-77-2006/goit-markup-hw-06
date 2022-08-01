@@ -490,10 +490,12 @@ img {
     margin-bottom: 20px;
     color: var(--hero-title-color);
 }
+
 .footer-soc {
     display: block;
     margin-left: 70px;
 }
+
 .footer-soc-list {
     display: flex;
 }

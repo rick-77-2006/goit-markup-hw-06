@@ -499,9 +499,11 @@ img {
 .footer-soc-list {
     display: flex;
 }
+
 .footer-soc-item {
     margin-right: 10px;
 }
+
 .footer-soc-item:last-child {
     margin-right: 0;
 }

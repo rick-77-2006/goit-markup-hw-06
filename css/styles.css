@@ -558,6 +558,7 @@ img {
 .btn-list {
     margin-right: 8px;
 }
+
 .btn-list:last-child {
     margin-right: 0;
 }

@@ -525,6 +525,7 @@ img {
 .footer-soc-icon {
     fill: currentColor;
 }
+
 .footer-soc-link:hover,
 .footer-soc-link:focus {
     background-color: var(--logo-color);

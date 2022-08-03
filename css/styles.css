@@ -710,8 +710,10 @@ img {
     border-radius: 50%;
     background: #ffffff;
     border: 1px solid rgba(0, 0, 0, 0.1);
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     cursor: pointer;
+    display: flex;
+    padding: 0;
   }
   
   .icon-vector {

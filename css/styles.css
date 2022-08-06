@@ -829,15 +829,15 @@ img {
   }
   
   .modal-icon-accept {
-    width: 16px;
-    height: 15px;
+    width: 11px;
+    height: 8px;
     fill: transparent;
   }
   
   .check-text span {
     width: 16px;
     height: 15px;
-    border: 0.2px solid black;
+    border: 2px solid black;
     border-radius: 2px;
     margin-right: 7px;
     display: flex;

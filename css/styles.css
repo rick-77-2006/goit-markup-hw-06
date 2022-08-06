@@ -21,8 +21,8 @@ html {
 
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    /* font-weight: 400; */
+    /* font-style: normal; */
     font-size: 14px;
     letter-spacing: 0.03em;
     color: var(--main-color);
@@ -792,12 +792,13 @@ img {
   }
   
   .textarea-form {
+    font-family: inherit;
     height: 120px;
     margin-top: 4px;
     padding: 12px 16px;
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;
-    cursor: pointer;
+    /* cursor: pointer; */
     resize: none;
     outline: none;
     transition: border-color 250ms;

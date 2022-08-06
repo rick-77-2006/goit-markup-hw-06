@@ -707,14 +707,11 @@ img {
     right: 8px;
     width: 30px;
     height: 30px;
+    background-color: var(--color-hero-name);
     border-radius: 50%;
-    background: #ffffff;
     border: 1px solid rgba(0, 0, 0, 0.1);
-    /* box-sizing: border-box; */
     cursor: pointer;
     display: flex;
-    padding: 0;
-    align-content: center;
     justify-content: center;
     align-items: center;
   }

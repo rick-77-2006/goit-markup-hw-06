@@ -714,6 +714,9 @@ img {
     cursor: pointer;
     display: flex;
     padding: 0;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
   }
   
   .icon-vector {

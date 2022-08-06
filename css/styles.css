@@ -892,7 +892,8 @@ img {
 }
 
 .footer-form {
-  width: 573px;
+  /* width: 573px; */
+  display: flex;
 }
 
 .label-class {
@@ -912,7 +913,7 @@ img {
   width: 358px;
   height: 50px;
   padding-left: 16px;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   margin-right: 11px;
   font-size: 16px;
   line-height: 1.25;
@@ -936,6 +937,7 @@ img {
   margin: 0;
   letter-spacing: 0.06em;
   border: none;
+  
   color: #ffffff;
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);

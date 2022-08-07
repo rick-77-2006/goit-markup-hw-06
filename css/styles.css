@@ -744,9 +744,11 @@ img {
   /* -----modal-field------ */
   
   .label-form {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.1;
+    text-transform: uppercase;
+    color: #fff;
   }
   
   .modal-wrap {

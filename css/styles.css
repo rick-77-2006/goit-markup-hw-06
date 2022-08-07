@@ -888,7 +888,7 @@ img {
 }
 
 .footer-form {
-  width: 573px;
+  display: flex;
 }
 
 .label-class {
@@ -908,7 +908,7 @@ img {
   width: 358px;
   height: 50px;
   padding-left: 16px;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   margin-right: 11px;
   font-size: 16px;
   line-height: 1.25;

@@ -889,14 +889,20 @@ img {
 
 .footer-form {
   display: flex;
+  align-items: center;
 }
 
-.label-class {
+/* .label-class {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.1;
   text-transform: uppercase;
   color: #ffffff;
+} */
+
+.subsсribe-footer-title {
+   margin-bottom: 20px; 
+
 }
 
 .footer-subscribe-case {
